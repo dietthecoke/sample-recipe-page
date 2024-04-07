@@ -23,7 +23,8 @@
 
 /* MAIN */
 body {
-  color: var(--rose);
+  background-color: var(--eggshell);
+  color: var(--grey);
 }
 
 h1 {

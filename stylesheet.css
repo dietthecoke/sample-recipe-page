@@ -21,6 +21,15 @@
   src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf') format('ttf');
 }
 
+/* MAIN */
+body {
+  background-color: var(--nutmeg);
+}
+
+h1 {
+  font-family: 'outfit', serif;
+}
+
 p {
   font-size: 16px;
   font-family: 'young-serif', sans-serif;

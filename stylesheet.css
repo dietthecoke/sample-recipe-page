@@ -57,6 +57,11 @@ h2 {
   background-color: var(--rose);
 }
 
+.omelette-photo {
+  border-radius: 20px; 
+  object-fit: cover;
+}
+
 #preparation-time {
   color: var(--raspberry);
   font-weight: 600;

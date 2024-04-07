@@ -24,6 +24,7 @@
 /* MAIN */
 body {
   background-color: var(--nutmeg);
+  color: var(--brown);
 }
 
 h1 {

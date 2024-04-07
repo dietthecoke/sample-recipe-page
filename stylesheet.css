@@ -61,8 +61,7 @@ h2 {
 .omelette-photo {
   display: flex;
   justify-content: center;
-  height: 100%;
-  width: 100%;
+  max-width: 500px;
 }
 
 #omelette-photo {

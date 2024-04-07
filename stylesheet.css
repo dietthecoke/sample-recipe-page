@@ -29,10 +29,15 @@ body {
 
 h1 {
   font-family: 'outfit', serif;
+  color: var(--charcoal);
 }
 
 p {
   font-size: 16px;
   font-family: 'young-serif', sans-serif;
+  color: var(--brown);
+}
+
+h2 {
   color: var(--brown);
 }

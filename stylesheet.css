@@ -41,3 +41,12 @@ p {
 h2 {
   color: var(--brown);
 }
+
+.preparation {
+  background-color: var(--rose);
+}
+
+#preparation-time {
+  color: var(--raspberry);
+  font-weight: 600;
+}

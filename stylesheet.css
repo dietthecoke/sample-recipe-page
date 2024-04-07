@@ -57,7 +57,12 @@ h2 {
   background-color: var(--rose);
 }
 
-.omelette-photo {
+#omelette-photo {
+  display: flex;
+  justify-content: center;
+}
+
+#omelette-photo {
   border-radius: 20px; 
   object-fit: cover;
 }

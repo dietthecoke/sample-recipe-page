@@ -24,12 +24,11 @@
 /* MAIN */
 body {
   background-color: var(--eggshell);
-  color: var(--grey);
+  color: var(--charcoal);
 }
 
 h1 {
   font-family: 'outfit', serif;
-  color: var(--charcoal);
 }
 
 p {
@@ -40,6 +39,13 @@ p {
 
 h2 {
   color: var(--brown);
+}
+
+.recipe {
+  height: 80vh;
+  width: 70vh;
+  background-color: var(--white);
+  border-radius: 20px;
 }
 
 .preparation {

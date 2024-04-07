@@ -60,8 +60,8 @@ h2 {
 .omelette-photo {
   display: flex;
   justify-content: center;
-  height: 100px;
-  width: 100px;
+  height: 100%;
+  width: 100%;
 }
 
 #omelette-photo {

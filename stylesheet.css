@@ -31,7 +31,7 @@ h1 {
   font-family: 'outfit', serif;
 }
 
-p {
+p, li {
   font-size: 16px;
   font-family: 'young-serif', sans-serif;
   color: var(--brown);
@@ -42,12 +42,8 @@ h2 {
 }
 
 .recipe {
-  position: relative;
-  top: 50%;
-  left: 20%;
-  height: 80%;
-  width: 70%;
-  margin: 20px;
+  width: 70vw;
+  margin: 20px auto;
   padding: 20px;
   background-color: var(--white);
   border-radius: 20px;
@@ -61,12 +57,14 @@ h2 {
 .omelette-photo {
   display: flex;
   justify-content: center;
-  max-width: 500px;
+  max-width: 100%;
 }
 
 #omelette-photo {
   border-radius: 20px; 
   object-fit: cover;
+  width: 100%;
+  padding: 10px;
 }
 
 #preparation-time {
